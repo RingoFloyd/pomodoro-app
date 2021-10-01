@@ -1,1 +1,12 @@
-/* No CSS *//*# sourceMappingURL=styles.css.map */
+body {
+  background-color: #1e213f;
+}
+
+header {
+  font-family: "Kumbh Sans", sans-serif;
+  display: block;
+  font-size: 28px;
+  text-align: center;
+  color: #eff1fa;
+}
+/*# sourceMappingURL=styles.css.map */

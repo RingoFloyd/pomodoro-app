@@ -6,3 +6,18 @@ $colour-5: #1e213f;
 $colour-6: #ffffff;
 $colour-7: #eff1fa;
 $colour-8: #161932;
+$font-1: "Kumbh Sans", sans-serif;
+$font-2: "Roboto Slab", serif;
+$font-3: "Space Mono", monospace;
+
+body {
+  background-color: $colour-5;
+}
+
+header {
+  font-family: $font-1;
+  display: block;
+  font-size: 28px;
+  text-align: center;
+  color: $colour-7;
+}
