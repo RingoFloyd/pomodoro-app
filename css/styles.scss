@@ -21,3 +21,18 @@ header {
   text-align: center;
   color: $colour-7;
 }
+
+.timer-switch {
+  display: block;
+  text-align: center;
+  color: $colour-7;
+  font-family: $font-1;
+  font-weight: 700;
+  font-size: 14px;
+  background-color: $colour-8;
+  width: 400px;
+  margin: auto;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  border-radius: 50px;
+}
